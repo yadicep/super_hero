@@ -14,10 +14,15 @@ HTML5, CSS3, JavaScript puro
 3. Alertas y Validación: La aplicación valida la entrada del usuario y muestra alertas si la entrada es incorrecta.
 
 ## Capturas de Pantalla
-![Screenshot 1](ruta/a/screenshot1.png)
-![Screenshot 2](ruta/a/screenshot2.png)
+<p align="center">
+  <img src="assets/img/ppal.png" alt="Vista previa de la página principal" width="400">
+</p>
+
+<p align="center">
+  <img src="assets/img/result.png" alt="Despliegue de características y estadísticas" width="400">
+</p>
 
 ## Instalación
 1. Clona el repositorio
    ```bash
-   git clone https://github.com/tuusuario/nombre-proyecto.git
+   git clone  https://github.com/YADICEP/SUPER_HERO/
