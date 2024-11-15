@@ -1,7 +1,8 @@
 # **MEET YOUR SUPERHERO**
 
 ## Description
-The application is designed to search for information about superheroes.
+The application is designed to retrieve information about superheroes using the <a href="https://www.superheroapi.com/" target="_blank">Superhero API</a>
+
 
 ## Technologies Used
 HTML5, CSS3, Pure JavaScript
