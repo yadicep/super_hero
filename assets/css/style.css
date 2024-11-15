@@ -1,0 +1,38 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: "Moderustic", sans-serif;
+}
+
+.moderustic{
+  font-family: "Moderustic", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.logoMenu{
+    width: 50px;
+}
+.ayuda{
+    font-family: "Moderustic", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size:small;
+    color: gray;
+}
+#nombresSugeridos{
+    position: absolute;
+    width: 15%;
+    overflow-y: auto;
+    max-height: 300px;
+}
+.card-body p{
+    font-weight: 400;
+    border-bottom: 1px solid #BADDDD;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.subtitulo{
+    font-weight: 700;
+    font-size: 14px;
+}
