@@ -1,28 +1,28 @@
-# CONOCE A TU SUPER HERO
+# **MEET YOUR SUPERHERO**
 
-## Descripción
-La aplicación esta diseñada para buscar información sobre superhéroes.
+## Description
+The application is designed to search for information about superheroes.
 
-## Tecnologías Utilizadas
-HTML5, CSS3, JavaScript puro
+## Technologies Used
+HTML5, CSS3, Pure JavaScript
 
-## Funcionalidades
-1. Interfaz de Búsqueda: En el archivo HTML, la interfaz incluye un formulario que permite al usuario buscar héroes. Hay opciones para realizar búsquedas tanto por ID como por nombre.
-2. Lógica de Búsqueda con JavaScript y jQuery:
->- Selección de tipo de búsqueda: Al cambiar el tipo de búsqueda entre ID y nombre, se muestran o se ocultan campos específicos según la elección.
->- Búsqueda por ID o Nombre: Cuando el usuario envía el formulario, el script verifica si la búsqueda es por ID o por nombre, y valida la entrada. Si es válida, se llama a una función específica (infoID o infoNombre) para obtener la información del héroe correspondiente.
-3. Alertas y Validación: La aplicación valida la entrada del usuario y muestra alertas si la entrada es incorrecta.
+## Features
+1. **Search Interface**: The HTML file includes a form interface that allows users to search for heroes. Options are available for searching by either ID or name.
+2. **Search Logic with JavaScript and jQuery**:
+   - **Search Type Selection**: When switching between ID and name search types, specific fields are shown or hidden depending on the choice.
+   - **Search by ID or Name**: When the user submits the form, the script checks if the search is by ID or name and validates the input. If valid, a specific function (`infoID` or `infoName`) is called to retrieve the hero's information.
+3. **Alerts and Validation**: The application validates the user's input and displays alerts if the input is incorrect.
 
-## Capturas de Pantalla
+## Screenshots
 <p align="center">
-  <img src="assets/img/ppal.png" alt="Vista previa de la página principal" width="400">
+  <img src="assets/img/ppal.png" alt="Preview of the main page" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/img/result.png" alt="Despliegue de características y estadísticas" width="400">
+  <img src="assets/img/result.png" alt="Display of features and statistics" width="400">
 </p>
 
-## Instalación
-1. Clona el repositorio
+## Installation
+1. Clone the repository
    ```bash
    git clone  https://github.com/YADICEP/SUPER_HERO/
