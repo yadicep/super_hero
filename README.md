@@ -1,4 +1,4 @@
-# **MEET YOUR SUPERHERO**
+# **MEET YOUR SUPERHERO [![Follow on GitHub](https://img.shields.io/github/followers/YADICEP?label=Follow&style=social)](https://github.com/YADICEP)**
 
 ## Description
 The application is designed to retrieve information about superheroes using the <a href="https://www.superheroapi.com/" target="_blank">Superhero API</a>
